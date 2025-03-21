@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0.5rem;
 }
 
-.footer-copytight {
+.footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color)
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: var(--section-tagline-margin);
 }
 
-ul .row {
+ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
