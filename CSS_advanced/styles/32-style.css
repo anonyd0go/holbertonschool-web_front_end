@@ -134,8 +134,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
     transition-duration: var(--transition-duration);
-    transition-property: color;
-    transition-property: background-color;
+    transition-property: color, background-color;
 }
 
 .card-category {
